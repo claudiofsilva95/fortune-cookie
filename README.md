@@ -1,2 +1,2 @@
 # fortune-cookie
-App com biscoito da sorte com React-Native
+App de biscoito da sorte para mobile com React-Native
