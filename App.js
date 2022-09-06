@@ -91,7 +91,7 @@ class App extends Component{
       "“A nossa vida tem 4 sentidos…amar, sofrer, lutar e vencer. Ame muito, sofra pouco,lute bastante e vença sempre!” ",
       "Nada é por acaso…Acredite em seus sonhos e nos seus potenciais….Na vida tudo se supera.. Acredite em milagres, mas não dependa deles. ",
       "Você sempre será a sua melhor companhia! ",
-      "Realize o óbvio, pense no improvável e conquiste o impossível Latumia.",
+      "Realize o óbvio, pense no improvável e conquiste o impossível.",
     ]
     
   }
